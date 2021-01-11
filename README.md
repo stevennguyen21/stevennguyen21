@@ -29,3 +29,13 @@ const steven = {
 ```
 
 ---
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/stevennguyen21/stevennguyen21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevennguyen21&show_icons=true&line_height=27&count_private=true&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" alt="Steven's GitHub Stats" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/stevennguyen21/stevennguyen21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevennguyen21&layout=compact&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
+</a>
