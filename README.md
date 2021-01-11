@@ -6,8 +6,6 @@
 [![GitHub Steven Nguyen](https://img.shields.io/github/followers/stevennguyen21?label=follow&style=social)](https://github.com/stevennguyen21)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
 const steven = {
   pronouns: "he" | "him",
@@ -25,10 +23,8 @@ const steven = {
         databases: ["mongoDB", "mongoose", "MySql", "sqlite", "Sequelize", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ interests: ["Anime", "Dungeons and Dragons", "Gaming", "Powerlifting"]
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
