@@ -12,14 +12,13 @@
 const steven = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Bootstrap],
   technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap"]
+            css: ["Bootstrap", "Styled-Components"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongoDB", "mongoose", "MySql", "sqlite", "Sequelize", "PostgreSQL"],
