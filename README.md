@@ -1,3 +1,5 @@
+<img src="./banner.png">
+
 # Hi, I'm Steven Nguyen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p><em>I am a fullstack software engineer based in Seattle, WA. </em><p>
@@ -6,7 +8,10 @@
 
 [![Linkedin: Steven Nguyen](https://img.shields.io/badge/-stevennguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-nguyen-8a9aaa13b//)](https://www.linkedin.com/in/steven-nguyen-8a9aaa13b/)
 [![GitHub Steven Nguyen](https://img.shields.io/github/followers/stevennguyen21?label=follow&style=social)](https://github.com/stevennguyen21)
-
+<!-- Email -->
+<a href="mailto:steeven.nguyen1102@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-steven.nguyen1102%40gmail.com-1152ba?style=for-the-badge"/>
+</a>
 
 ```javascript
 const steven = {
