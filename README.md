@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%">
+<img src="./banner.png">
 
 # Hi, I'm Steven Nguyen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
