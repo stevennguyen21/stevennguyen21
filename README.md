@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Steven Nguyen](https://img.shields.io/badge/-stevennguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-nguyen-8a9aaa13b//)](https://www.linkedin.com/in/steven-nguyen-8a9aaa13b/)
+[![Linkedin: Steven Nguyen](https://img.shields.io/badge/-stevennguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevennguyen44//)](https://www.linkedin.com/in/steven-nguyen-8a9aaa13b/)
 [![GitHub Steven Nguyen](https://img.shields.io/github/followers/stevennguyen21?label=follow&style=social)](https://github.com/stevennguyen21)
 <!-- Email -->
 <a href="mailto:steeven.nguyen1102@gmail.com">
