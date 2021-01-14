@@ -23,7 +23,7 @@ const steven = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongoDB", "mongoose", "MySql", "sqlite", "Sequelize", "PostgreSQL"],
+        databases: ["mongoDB", "mongoose", "MySQL", "sqlite", "Sequelize", "PostgreSQL"],
     },
  interests: ["Anime", "Dungeons and Dragons", "Gaming", "Powerlifting"]
 }
