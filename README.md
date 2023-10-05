@@ -13,10 +13,10 @@
 ```javascript
 const steven = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, SCSS],
   technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["Vue", "React"],
             css: ["Bootstrap", "Styled-Components"]
         },
         backEnd: {
