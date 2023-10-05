@@ -2,7 +2,7 @@
 
 # Hi, I'm Steven Nguyen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p><em>I am a fullstack software engineer based in Seattle, WA. </em><p>
+<p><em>I am a UI Engineer based in Seattle, WA working at Apple. </em><p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
